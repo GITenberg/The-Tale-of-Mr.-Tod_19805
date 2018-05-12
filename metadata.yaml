@@ -1,0 +1,61 @@
+_repo: The-Tale-of-Mr.-Tod_19805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Mr. Tod is a children's book written and illustrated by\
+  \ Beatrix Potter, first published by Frederick Warne & Co. in 1912. The tale is\
+  \ about a badger called Tommy Brock and his arch enemy Mr. Tod, a fox. Brock kidnaps\
+  \ the children of Benjamin Bunny and his wife Flopsy, intending to eat them, and\
+  \ hides them in an oven in the home of Mr. Tod. Benjamin and his cousin Peter Rabbit\
+  \ have followed Tommy Brock in an attempt to rescue the babies. When Mr. Tod finds\
+  \ Brock asleep in his bed, he determines to get him out of the house. His initial\
+  \ attempt fails, and the two eventually come to blows. Under cover of the fight,\
+  \ the rabbits rescue the baby rabbits. The tale was influenced by the Uncle Remus\
+  \ stories, and was set in the fields of Potter's Castle Farm. Black and white illustrations\
+  \ outnumber those in colour. The tale is critically considered one of Potter's \"\
+  most complex and successful in plot and tone.\"\nPotter's publisher wanted Mr. Tod\
+  \ to be the first in a new series of Peter Rabbit tales in larger formats with elaborate\
+  \ bindings, but Potter disliked the idea. Nonetheless, Mr. Tod and its 1913 follower,\
+  \ The Tale of Pigling Bland, were published in the new formats, but the idea was\
+  \ eventually dropped and the ordinary bindings were adopted for reprints. The two\
+  \ tales were the last completely original productions by Potter. She continued to\
+  \ publish sporadically but used decades-old concepts and sketches rather than new\
+  \ images and ideas. In 1995, an animated film adaptation of the tale was featured\
+  \ on the BBC television anthology series The World of Peter Rabbit and Friends.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19805'
+  wikidata: Q4263059
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: The Tale of Mr. Tod
+url: http://www.gutenberg.org/ebooks/19805
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%84%E3%83%8D%E3%81%A9%E3%82%93%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Mr._Tod
+- https://en.wikisource.org/wiki/The_Tale_of_Mr._Tod
+- https://en.wikipedia.org/wiki/The_Tale_of_Mr._Tod
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Mr._Tod
+- https://id.wikipedia.org/wiki/The_Tale_of_Mr._Tod
